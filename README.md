@@ -39,10 +39,10 @@ Add pictures in another html where we want to see the place.
 </html>
 
 ## Output:
-![output](/![Alt text](output1.jpg))
-![output](/![Alt text](output2.jpg))
-![output](/![Alt text](output3.jpg))
-![output](/![Alt text](output4.jpg))
+![output](/output1.jpg)
+![output](/output2.jpg)
+![output](/output3.jpg)
+![output](/output4.jpg)
 
 ## Result:
 The program for places-around-me is successfully executed.
