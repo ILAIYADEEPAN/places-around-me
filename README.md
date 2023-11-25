@@ -26,7 +26,7 @@ Add pictures in another html where we want to see the place.
 </head>
 <body>
     <h1> imagemaps demo </h1>
-    <img src="kilpalur.jpg" usemap="#image_map">
+    <img src="output1.jpg" usemap="#image_map">
 <map name="image_map">
   <area alt="kilpalur" title="myvillage" href="village.html" coords="608,303,51" shape="circle">
   <area alt="ricemill" title="kmd ricemill" href="mill.html" coords="975,297,1072,370" shape="rect">
@@ -39,7 +39,6 @@ Add pictures in another html where we want to see the place.
 </html>
 
 ## Output:
-![output](/output1.jpg)
 ![output](/output2.jpg)
 ![output](/output3.jpg)
 ![output](/output4.jpg)
