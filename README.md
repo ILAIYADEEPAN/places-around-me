@@ -17,6 +17,7 @@ Now make your own place and the direct it to the another html by when we touch t
 Add pictures in another html where we want to see the place.
 
 ## Code:
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +27,8 @@ Add pictures in another html where we want to see the place.
 </head>
 <body>
     <h1> imagemaps demo </h1>
-    <img src="file:///home/sec/fwad/ex04/places-around-me/kilpalur.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/ae3b5c8f-3bc1-4f33-9b0c-9c8e39218020)
+    <img src="file:///home/sec/fwad/ex04/places-around-me/kilpalur.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/9f52fe1a-f19e-466a-996a-f9b6a4e1fb4d)
+
 " usemap="#image_map">
 <map name="image_map">
   <area alt="kilpalur" title="myvillage" href="village.html" coords="608,303,51" shape="circle">
@@ -38,14 +40,16 @@ Add pictures in another html where we want to see the place.
 
 </body>
 </html>
-
+```
 
 ## Output:
-file:///home/sec/fwad/ex04/places-around-me/output2.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/0a6dda14-1566-4f63-b427-14d4a2e05535)
-file:///home/sec/fwad/ex04/places-around-me/output3.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/2e88f296-7dd4-438c-bab2-b68baeaded5b)
-file:///home/sec/fwad/ex04/places-around-me/output4.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/6c03709d-b81d-480d-ba7e-a188a20aa271)
-file:///home/sec/fwad/ex04/places-around-me/output5.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/d4197fae-7b09-47ec-9b97-92dc95d62daf)
-file:///home/sec/fwad/ex04/places-around-me/output6.jpg![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/d3a2f3d7-f57b-44be-a87a-8e0023d209ce)
+![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/64799d5f-29df-4a53-8077-ee44ee967557)
+![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/905b881b-dfc0-42f2-8987-ccecfceda9be)
+![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/7d5975c2-c724-4d15-a66a-a0969ee552fb)
+![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/7d91fdb5-d0ea-4d2a-8853-aaf1d68a530e)
+![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/5a8d73b1-b9d9-43c1-93ce-8efc94051355)
+![image](https://github.com/ILAIYADEEPAN/places-around-me/assets/147473334/24c7d174-056d-4b11-9f72-b1dab8336c43)
+
 
 
 
